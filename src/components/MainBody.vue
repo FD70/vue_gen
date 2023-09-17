@@ -6,5 +6,7 @@ import FREAKING_BRICK from './FreakingBrick.vue'
   <FREAKING_BRICK />
   <FREAKING_BRICK />
   <FREAKING_BRICK />
+  <FREAKING_BRICK />
+  <FREAKING_BRICK />
 
 </template>

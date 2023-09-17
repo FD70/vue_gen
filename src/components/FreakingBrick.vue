@@ -1,7 +1,7 @@
 <template>
     <img 
         class="freaking_brick"
-        src = "./images/brick.png"
+        src = "/src/assets/images/brick.png"
         alt = "freaking brick"
     
         >
@@ -11,8 +11,9 @@
   <style scoped>
     .freaking_brick {
       /* background-color: black; */
-      width: 320px;
-      height: 150px;
+      /* width: 320px; */
+      /* height: 150px; */
+      width: 34%;
 
       margin: 2px;
       margin-bottom: 2px;
